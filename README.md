@@ -83,6 +83,6 @@ Run the HTML file
 
 # Test your typing skill 
 
-[Live Demo](https://souvik2376.github.io/Test-Typing-Skill/)
+[Live Demo](https://souvik2376.github.io/Test-Typing-Skill)
 
 
